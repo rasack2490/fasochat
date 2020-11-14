@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "986691642123",
+    "firebase_url": "https://fasochat-f836b.firebaseio.com",
+    "project_id": "fasochat-f836b",
+    "storage_bucket": "fasochat-f836b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986691642123:android:676b68370019cac9e1b80e",
+        "android_client_info": {
+          "package_name": "com.example.fasochat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986691642123-ijv3ft3ta5a44i54sgbb6geec9h3i0ia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCknX9M0DdTczSsEfwEXPJ35hXICeaUCkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986691642123-ijv3ft3ta5a44i54sgbb6geec9h3i0ia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
